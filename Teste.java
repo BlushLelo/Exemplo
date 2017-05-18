@@ -14,6 +14,7 @@ public class Teste {
 		menu.setResizable(false);
 		menu.setVisible(true);
 		System.out.println("Loucura");
+		System.out.println();
 	}
-
+	
 }
