@@ -13,7 +13,7 @@ public class Teste {
 		menu.setBounds(0,0,819,490);
 		menu.setResizable(false);
 		menu.setVisible(true);
-		batata;
+		System.out.println("Loucura");
 	}
 
 }
