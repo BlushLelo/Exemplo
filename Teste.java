@@ -15,6 +15,7 @@ public class Teste {
 		menu.setVisible(true);
 		System.out.println("Loucura");
 		System.out.println();
+		[dsauhdsdahdsa];
 	}
 	
 }
